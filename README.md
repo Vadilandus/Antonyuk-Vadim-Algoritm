@@ -3,7 +3,7 @@
 </div>
 <div>
 <a href="https://docs.google.com/document/d/1Rq1srRL536ETIP_kKjL1uCOJriWNXxifynFgKW7Z-PE/edit">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 </div>
 <div align="center">
