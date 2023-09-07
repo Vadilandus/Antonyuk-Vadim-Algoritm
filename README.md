@@ -14,8 +14,7 @@
   </h3>
   <ul>
     <li>
-      первая пара,
-      <div id="border">
+      Первая пара:<div id="border">
         <a href="https://docs.google.com/document/d/1Rq1srRL536ETIP_kKjL1uCOJriWNXxifynFgKW7Z-PE/edit">
           <img src="https://img.shields.io/badge/GoogleDocs-white,red?logo=GoogleDocs&logoColor=Yellow">
         </a>
