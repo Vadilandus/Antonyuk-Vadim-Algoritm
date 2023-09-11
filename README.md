@@ -20,5 +20,12 @@
         </a>
       </div>
     </li>
+    <li>
+      <div id="border">
+        <a href="https://docs.google.com/document/d/1OADsf1LNm-3ohASFAwwTHerx5im6_A1uh9MmDJQ53Os/edit?usp=sharing">
+          <img src="https://img.shields.io/badge/GoogleDocs-white,red?logo=GoogleDocs&logoColor=Yellow">
+        </a>
+      </div>
+    </li>
   </ul>
 </div>
