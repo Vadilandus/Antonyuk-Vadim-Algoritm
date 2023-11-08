@@ -38,4 +38,7 @@
       2.  Предсказуемость результата<p>
       3.  Заранее Установленный план следованию <p>
 
+<div>https://drive.google.com/drive/folders/1JNTPVkjYdrCG7u7vVUiAOdwUfP9e-gff?usp=sharing</div> ССылка на практику
+
+
       
