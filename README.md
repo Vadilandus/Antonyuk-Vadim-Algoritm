@@ -40,6 +40,6 @@
 
 <div>https://drive.google.com/drive/folders/1JNTPVkjYdrCG7u7vVUiAOdwUfP9e-gff?usp=sharing</div> ССылка на практику
 <p>https://habr.com/ru/users/vadim_antonyuk/ </p>ссылка на хабр
-
+<p>https://drive.google.com/drive/folders/17yPOkaIy9MJLTw2iwA32N1nbLseXPtv_?usp=sharing  численные методы</p>
 
       
