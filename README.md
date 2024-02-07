@@ -42,4 +42,5 @@
 <p>https://habr.com/ru/users/vadim_antonyuk/ </p>ссылка на хабр
 <p>https://drive.google.com/drive/folders/17yPOkaIy9MJLTw2iwA32N1nbLseXPtv_?usp=sharing  численные методы</p>
 
+<p>https://docs.google.com/forms/d/e/1FAIpQLScefL3-E0m4Rb9b-OUvuIhZ-DHjxxpEvNaxUQtQs7w8YpRWYQ/viewform?usp=sf_link</p>
       
