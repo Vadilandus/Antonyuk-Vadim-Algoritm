@@ -43,4 +43,7 @@
 <p>https://drive.google.com/drive/folders/17yPOkaIy9MJLTw2iwA32N1nbLseXPtv_?usp=sharing  численные методы</p>
 
 <p>https://docs.google.com/forms/d/e/1FAIpQLScefL3-E0m4Rb9b-OUvuIhZ-DHjxxpEvNaxUQtQs7w8YpRWYQ/viewform?usp=sf_link</p>
+
+<p>Численные методы</p>
+<p>https://colab.research.google.com/drive/1qWwCZWBVYuwZ9oJ0pAj8PZwngBAC6Y3g#scrollTo=ZOOYr6-hmETk</p>
       
